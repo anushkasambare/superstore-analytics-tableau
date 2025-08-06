@@ -9,7 +9,7 @@
 - Storytelling visuals that turn raw rows into answers anyone can see and act on
 - Focus on clarity so business users (not just analysts) can explore insights
 
-🧠*Why this matters:
+🧠 Why this matters:
 A good dashboard doesn’t just visualize data — it *invites* users to explore and discover on their own.
 
 📸 Screenshot:
